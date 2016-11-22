@@ -1,3 +1,4 @@
+''' this is gender prediction for nepali names only'''
 male_name = ['hari','ramu' ]
 common_name = ['suman', 'sonu', 'komal', 'laxmi']
 female_name = ['i', 'u', 'a',
